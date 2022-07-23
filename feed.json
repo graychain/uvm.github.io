@@ -5,6 +5,7 @@
     "home_page_url": "http://docs.uvm.network",
     "feed_url": "http://docs.uvm.network/feed.json",
     "user_comment": "",
+    "icon": "http://docs.uvm.network/media/website/uvm_logo2x.png",
     "author": {
         "name": "~doplur"
     },
@@ -12,7 +13,7 @@
         {
             "id": "http://docs.uvm.network/urbit-virtual-machine-or-documentation.html",
             "url": "http://docs.uvm.network/urbit-virtual-machine-or-documentation.html",
-            "title": "Urbit Virtual Machine | Documentation",
+            "title": "Documentation | Urbit Virtual Machine",
             "summary": "Running your own node Instructions will look something like this and the code will look something like this",
             "content_html": "<h2 id=\"running-your-own-node\">Running your own node</h2>\n<p>Instructions will look something like this</p>\n<pre><code>and the code will look something\nlike this\n</code></pre>\n",
             "author": {
@@ -22,7 +23,7 @@
                    "docs"
             ],
             "date_published": "2022-07-23T12:36:36-05:00",
-            "date_modified": "2022-07-23T15:47:21-05:00"
+            "date_modified": "2022-07-23T15:58:37-05:00"
         }
     ]
 }
