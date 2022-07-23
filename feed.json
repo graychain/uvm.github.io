@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Urbit Virtual Machine",
+    "description": "",
+    "home_page_url": "http://docs.uvm.network",
+    "feed_url": "http://docs.uvm.network/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "~doplur"
+    },
+    "items": [
+        {
+            "id": "http://docs.uvm.network/urbit-virtual-machine-or-documentation.html",
+            "url": "http://docs.uvm.network/urbit-virtual-machine-or-documentation.html",
+            "title": "Urbit Virtual Machine | Documentation",
+            "summary": "Running your own node Instructions will look something like this and the code will look something like this",
+            "content_html": "<h2 id=\"running-your-own-node\">Running your own node</h2>\n<p>Instructions will look something like this</p>\n<pre><code>and the code will look something\nlike this\n</code></pre>\n",
+            "author": {
+                "name": "~doplur"
+            },
+            "tags": [
+                   "docs"
+            ],
+            "date_published": "2022-07-23T12:36:36-05:00",
+            "date_modified": "2022-07-23T15:47:21-05:00"
+        }
+    ]
+}

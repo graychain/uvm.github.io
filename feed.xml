@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Urbit Virtual Machine</title>
+    <link href="http://docs.uvm.network/feed.xml" rel="self" />
+    <link href="http://docs.uvm.network" />
+    <updated>2022-07-23T15:47:21-05:00</updated>
+    <author>
+        <name>~doplur</name>
+    </author>
+    <id>http://docs.uvm.network</id>
+
+    <entry>
+        <title>Urbit Virtual Machine | Documentation</title>
+        <author>
+            <name>~doplur</name>
+        </author>
+        <link href="http://docs.uvm.network/urbit-virtual-machine-or-documentation.html"/>
+        <id>http://docs.uvm.network/urbit-virtual-machine-or-documentation.html</id>
+            <category term="docs"/>
+
+        <updated>2022-07-23T15:47:21-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Running your own node Instructions will look something like this and the code will look something like this
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="running-your-own-node">Running your own node</h2>
+<p>Instructions will look something like this</p>
+<pre><code>and the code will look something
+like this
+</code></pre>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
